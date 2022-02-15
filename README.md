@@ -1,15 +1,14 @@
-<<<<<<< HEAD
 # 1. Write a ROS publisher with python:
-+ Publishers: /draw_circle
-  Subcribers: /turtlesim
++ Publishers (/draw_circle) and Subscribers (/turtlesim):
 ![](https://i.imgur.com/jSuEieX.png)
 + Graph: 
 ![](https://i.imgur.com/9aRDT1i.png)
-+ Data publihsers send to subcribers  
++ Publishers send data to subscribers: 
+
 ![](https://i.imgur.com/H7JazFZ.png)
-+ Nice turtle 
-=======
-# Using python
->>>>>>> 66870c372ae26f3f0436f463d64bd472069e58fd
-![](https://i.imgur.com/ppECj4g.png)
++ Nice turtle: 
+
+![](https://i.imgur.com/OZ7K72q.png)
+
+
 
