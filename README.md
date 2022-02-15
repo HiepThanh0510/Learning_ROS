@@ -4,6 +4,7 @@
 + Graph: 
 ![](https://i.imgur.com/9aRDT1i.png)
 + Data publihsers send to subcribers: 
+
 ![](https://i.imgur.com/H7JazFZ.png)
 + Nice turtle: 
 
