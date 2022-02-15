@@ -1,6 +1,5 @@
 # 1. Write a ROS publisher with python:
-+ Publishers: /draw_circle
-  Subcribers: /turtlesim
++ Publishers (/draw_circle) and Subcribers (/turtlesim):
 ![](https://i.imgur.com/jSuEieX.png)
 + Graph: 
 ![](https://i.imgur.com/9aRDT1i.png)
