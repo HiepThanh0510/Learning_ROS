@@ -17,6 +17,11 @@
 + Subscribers receives data from Publishers:
 
 ![](https://i.imgur.com/XyzHGxH.png)
++ The progress:
+
+![](https://i.imgur.com/3m8tUb9.gif)
+
+
 
 
 
