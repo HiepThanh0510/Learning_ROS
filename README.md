@@ -3,7 +3,7 @@
 ![](https://i.imgur.com/jSuEieX.png)
 + Graph: 
 ![](https://i.imgur.com/9aRDT1i.png)
-+ Data publishers send to subcribers: 
++ Publishers send data to subcribers: 
 
 ![](https://i.imgur.com/H7JazFZ.png)
 + Nice turtle: 
