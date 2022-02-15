@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 1. Write a ROS publisher with python:
 + Publishers: /draw_circle
   Subcribers: /turtlesim
