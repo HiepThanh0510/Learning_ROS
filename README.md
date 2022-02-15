@@ -17,6 +17,11 @@
 + Subscribers receives data from Publishers:
 
 ![](https://i.imgur.com/XyzHGxH.png)
++ The progress:
+
+![subscriber](https://user-images.githubusercontent.com/72625679/154030876-69665fe1-e6e9-4e6a-b8f1-037f2410de59.gif)
+
+
 
 
 
