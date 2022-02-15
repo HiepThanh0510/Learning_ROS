@@ -7,7 +7,7 @@ if __name__ == '__main__':
     
     pub = rospy.Publisher('/turtle1/cmd_vel', Twist, queue_size = 10)
     
-    rate = rospy.Rate(2)
+    rate = rospy.Rate(2) # publish on the topic at 2 Hz
 
     while not rospy.is_shutdown():
         # publish cmd vel
